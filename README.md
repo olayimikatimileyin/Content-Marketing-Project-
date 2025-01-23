@@ -2,6 +2,11 @@ RD Account - CM - 2024: Content Marketing Project
 
 Welcome to the RD Account - CM - 2024 repository! This repository documents my approach, process, and deliverables for a content marketing project focused on enhancing brand visibility, engagement, and digital presence for Rithesh Darish (Founder of Ozibook) and the Ozigen platform.
 
+Please check out the video where I explained in detail about this project 
+
+https://www.loom.com/share/0b501cc19c914028a9bb8047af47d5a6?sid=bf7e6553-015c-447a-9b15-ee89a64620ea   
+https://www.loom.com/share/d8ccac72de224ec9ba6395178e70f5d4?sid=c0fef8ac-6242-42e3-8443-88776f48e01e   
+
 📖 Project Overview
 
 This project involved strategizing and executing content marketing tasks for Rithesh Darish and Ozigen. The goal was to create compelling and algorithm-friendly content that resonates with target audiences, including coaches, entrepreneurs, and founders, while maintaining the brand's authenticity and values.
